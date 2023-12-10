@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "text": "Home page",
+    "link": "#"
+  },
+  {
+    "id": "2",
+    "text": "Books page",
+    "link": "#"
+  },
+  {
+    "id": "3",
+    "text": "Contacts page",
+    "link": "#"
+  },
+  {
+    "id": "4",
+    "link": "#"
+  }
+]

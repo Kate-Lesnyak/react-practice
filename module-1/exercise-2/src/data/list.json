@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "src": "https://cdn.pixabay.com/photo/2022/03/29/06/40/fire-7098845_1280.jpg",
+    "title": "Post title 1",
+    "text": "Text 1"
+  },
+  {
+    "id": "2",
+    "src": "https://cdn.pixabay.com/photo/2019/12/08/09/26/fire-4680697_1280.jpg",
+    "title": "Post title 2",
+    "text": "Text 2"
+  },
+  {
+    "id": "3",
+    "src": "https://manoarya.com/Manoarya%20All%20Post/Images/Pixabay_API_Gallery.png",
+    "title": "Post title 3",
+    "text": "Text 3"
+  }
+]
